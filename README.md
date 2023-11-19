@@ -107,7 +107,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 
 ```bash
 git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+cd revil-tracker/
 chmod +x install.sh
 ./install.sh
 ```
