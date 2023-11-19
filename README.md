@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
 
 <p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
+    <a href="https://twitter.com/revilhackers">
       <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
     </a>
     &nbsp;
@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
     </a>
     &nbsp;
-    <a href="https://thewhiteh4t.github.io/">
+    <a href="https://revilhackers.org/">
       <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
     </a>
 </p>
@@ -22,18 +22,18 @@
 </p>
 
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
+  <a style="margin-right: 10px;" href="https://github.com/mrsakshammalik/revil-tracker#installation">
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
+  <a style="margin-right: 10px;" href="https://github.com/mrsakshammalik/revil-tracker#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a href="https://github.com/thewhiteh4t/seeker#demo">
+  <a href="https://github.com/mrsakshammalik/revil-tracker#demo">
     <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://revilhacker.org/"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
